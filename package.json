@@ -1,5 +1,5 @@
 {
-  "name": "react-avatar-cropper",
+  "name": "react-avatar-cropper-jozan",
   "version": "0.1.3",
   "repository": "https://github.com/DropsOfSerenity/react-avatar-cropper",
   "description": "An avatar cropper meant to be a complete solution to avatar cropping.",
@@ -21,7 +21,6 @@
     "react"
   ],
   "dependencies": {
-    "react-bootstrap": "^0.30.2",
     "warning": "^2.1.0"
   },
   "peerDependencies": {
